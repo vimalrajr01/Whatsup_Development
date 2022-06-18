@@ -9,3 +9,5 @@ Whatsup Development code sample
 4. file updation
 
 5.media streaming
+
+6. adding the audio AND video feature
