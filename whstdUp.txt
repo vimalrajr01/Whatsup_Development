@@ -7,3 +7,5 @@ Whatsup Development code sample
 3.chatting page
 
 4. file updation
+
+5.media streaming
